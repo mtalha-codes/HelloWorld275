@@ -14,7 +14,7 @@
 using namespace std;
 
 /**
- * This program serves as main entry point to the program, the execution
+ * This serves as main entry point to the program, the execution
  * begin from the main(). Every code you write inside it, become compiled by
  * compiler and then when you run it, it becomes executed.
  * */
